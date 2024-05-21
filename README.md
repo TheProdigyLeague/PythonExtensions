@@ -1,2 +1,6 @@
 # PythonExtensions
-INSTALLERS
+```
+
+import godMode
+
+```
